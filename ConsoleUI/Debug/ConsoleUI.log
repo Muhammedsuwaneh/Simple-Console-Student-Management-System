@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\C++ Data Structures and Algorithms\Practice\Simple-Console-Student-Management-System\ConsoleUI\main.cpp(52,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\C++ Data Structures and Algorithms\Practice\Simple-Console-Student-Management-System\ConsoleUI\main.cpp(293,7): warning C4101: 'choice': unreferenced local variable
+  ConsoleUI.vcxproj -> E:\C++ Data Structures and Algorithms\Practice\Simple-Console-Student-Management-System\ConsoleUI\Debug\ConsoleUI.exe
