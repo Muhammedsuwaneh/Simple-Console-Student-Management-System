@@ -1,4 +1,4 @@
-# Simple-Console-Based-Student-Database-System
+# Simple-Console-Based-Student-Management-System
 
 ## Prerequisites 
 
